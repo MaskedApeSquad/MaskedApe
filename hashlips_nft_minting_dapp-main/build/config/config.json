@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB4e8346c17CA7234fC47efFbffA59fb704445d8D",
+  "SCAN_LINK": "https://etherscan.io/address/0xb4e8346c17ca7234fc47effbffa59fb704445d8d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MASKED APE SQUAD",
+  "SYMBOL": "MASQ",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/masked-apesquad",
+  "SHOW_BACKGROUND": true
+}
